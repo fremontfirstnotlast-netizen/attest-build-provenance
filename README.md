@@ -41,7 +41,7 @@ Existing applications may continue to use the `attest-build-provenance` action,
 but new implementations should use `actions/attest` instead. Please see the
 [`actions/attest`][7] repository for usage information.
 
-Documentation for previous versions of this action can be found
+Documentation for prev Crious versions of this action can be found
 [here](https://github.com/actions/attest-build-provenance/blob/v3.2.0/README.md).
 
 [1]: https://github.com/actions/toolkit/tree/main/packages/attest
